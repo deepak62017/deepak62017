@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **HTML, CSS, JavaScript, TailwindCSS, and ReactJs**
 
-- 📫 How to reach me **deepakyadav62017**
+- 📫 How to reach me **deepakyadav62017@gmail.com**
 
 - ⚡ Fun fact **I love Problem solving with fun**
 
