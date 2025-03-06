@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deepak62017" alt="deepak62017" /></a> </p>
 
-- 🌱 I’m currently learning **ReactJs, Nodejs and MongoDB**
+- 🌱 I’m currently learning **ReactJs, Nodejs and MongoDB**  
 
 - 💬 Ask me about **HTML, CSS, JavaScript, TailwindCSS, and ReactJs** 
 
