@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Deepak Kumar </h1>  
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Fullstack Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepak62017&label=Profile%20views&color=0e75b6&style=flat" alt="deepak62017" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deepak62017" alt="deepak62017" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deepak62017" alt="deepak62017" /></a> </p> 
 
-- 🌱 I’m currently learning **ReactJs, Nodejs and MongoDB**  
-
-- 💬 Ask me about **HTML, CSS, JavaScript, TailwindCSS, and ReactJs** 
+- 💬 Ask me about **HTML, CSS, JavaScript, TailwindCSS, and ReactJs, Node.js, express.js, Mongodb, MySQL** 
 
 - 📫 How to reach me **deepakyadav62017@gmail.com**   
 
